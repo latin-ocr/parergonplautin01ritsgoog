@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./parergonplautin01ritsgoog_0288.png"; bbox 0 0 2820 5332; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 416 1835 907 1921">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 416 1835 907 1921">
+     <span class='ocr_line' id='line_1_1' title="bbox 416 1835 907 1921; baseline 0.01 -24"><span class='ocrx_word' id='word_1_1' title='bbox 416 1835 803 1921; x_wconf 72' lang='lat' dir='ltr'><strong>mssnmmo</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 827 1838 907 1902; x_wconf 81' lang='lat' dir='ltr'><strong>lv.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 617 2426 687 2488">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 617 2426 687 2488">
+     <span class='ocr_line' id='line_1_2' title="bbox 617 2426 687 2488; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 617 2426 687 2488; x_wconf 75' lang='lat' dir='ltr'><strong>nm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 131 2748 1193 2881">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 131 2748 1193 2881">
+     <span class='ocr_line' id='line_1_3' title="bbox 131 2748 1193 2881; baseline 0.006 -39"><span class='ocrx_word' id='word_1_4' title='bbox 131 2748 669 2847; x_wconf 84' lang='lat' dir='ltr'><strong>PLAVTINISOHEN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 703 2749 1193 2881; x_wconf 59' lang='lat' dir='ltr'><strong>DIDASKALIEN„</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 570 3162 717 3192">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 570 3162 717 3192">
+     <span class='ocr_line' id='line_1_4' title="bbox 570 3162 717 3192; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 570 3162 717 3192; x_wconf 43' lang='lat' dir='ltr'><strong>do&gt;-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1414 5332">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1414 5332">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1414 5332; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1414 5332; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

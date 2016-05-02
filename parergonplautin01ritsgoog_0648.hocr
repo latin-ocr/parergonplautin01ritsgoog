@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./parergonplautin01ritsgoog_0648.png"; bbox 0 0 2820 5332; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 499 2035 801 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 499 2035 801 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 499 2035 801 2104; baseline 0.023 -7"><span class='ocrx_word' id='word_1_1' title='bbox 499 2035 801 2104; x_wconf 71' lang='lat' dir='ltr'><strong>Ammon.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 62 2500 1075 2635">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 62 2500 1075 2635">
+     <span class='ocr_line' id='line_1_2' title="bbox 62 2500 1075 2635; baseline 0.022 -42"><span class='ocrx_word' id='word_1_2' title='bbox 62 2500 1075 2635; x_wconf 71' lang='lat' dir='ltr'><strong>·stT0N1vs</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 389 2833 915 2911">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 389 2833 915 2911">
+     <span class='ocr_line' id='line_1_3' title="bbox 389 2833 915 2911; baseline 0.017 -12"><span class='ocrx_word' id='word_1_3' title='bbox 389 2833 450 2899; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 475 2834 592 2905; x_wconf 82' lang='lat' dir='ltr'>VIRIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 618 2836 915 2911; x_wconf 85' lang='lat' dir='ltr'><strong>ILLVSTRIBVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1414 5332">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1414 5332">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1414 5332; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1414 5332; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
